@@ -1,0 +1,15 @@
+[
+  {
+    "checkpointID": "08:A6:F7:A1:8E:80",
+    "animals": [
+      {
+        "id": "1c:b3:db:da:81:e4",
+        "rssi": -26
+      },
+      {
+        "id": "7c:a4:49:17:c0:ee",
+        "rssi": -44
+      }
+    ]
+  }
+]
